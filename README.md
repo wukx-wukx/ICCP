@@ -25,7 +25,7 @@ If you use our work in your research, please cite us using the following BibTeX 
 ```
 @inproceedings{wu2024lighting,
   title={Lighting Image/Video Style Transfer Methods by Iterative Channel Pruning},
-  author={Wu, Kexin and Tang, Fan and Liu, Ning and Deussen, Oliver and Dong, Weiming and Lee, Tong-Yee and others},
+  author={Wu, Kexin and Tang, Fan and Liu, Ning and Deussen, Oliver and Le, Thi-Ngoc-Hanh Le and Dong, Weiming and Lee, Tong-Yee},
   booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={3800--3804},
   year={2024},
